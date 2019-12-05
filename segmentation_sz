@@ -1,2 +1,11 @@
 import pandas as pd
 import numpy as np
+import statsmodels.api as sm
+import pylab as pl
+from scipy import stats
+# from sklearn.externals.six import StringIO
+from sklearn import cluster, tree, decomposition
+import matplotlib.pylot as plt
+import pydot
+
+
